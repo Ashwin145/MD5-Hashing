@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">md5 hashing</string>
+    <string name="calculate_hash">Calculate Hash</string>
+    <string name="select_file">Select File</string>
+    <string name="calculate_hash1">Calculate Hash</string>
+    <string name="enter_file_path">Enter File Path</string>
+    <string name="calculate_md5_hash">Calculate MD5 Hash</string>
+</resources>
