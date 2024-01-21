@@ -12,11 +12,6 @@ The MD5 Android App is a simple and efficient application developed in Kotlin th
 - **File Hashing:** Choose a file from your device, and the app will compute the MD5 hash for the selected file.
 
 - **Easy to Use:** The user-friendly interface makes it straightforward for users to generate MD5 hashes without any hassle.
-## Installation
-
-1. Download the APK file from the [releases](link/to/releases) section.
-2. Enable installation from unknown sources in your device settings.
-3. Install the APK on your Android device.
 
 ## Usage
 
